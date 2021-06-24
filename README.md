@@ -1,2 +1,1 @@
-# Quick-Tamplete
-This is a new one page web site design
+https://sazzadsourov.github.io/Quick-Tamplete/
