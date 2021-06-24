@@ -1,0 +1,176 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+			/*header design start*/
+header{
+	padding: 10px 0;
+	border-bottom:  1px solid #C6C6C6;
+}
+.containar{
+	width: 90%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.logo{
+	float: left;
+	width: 10%;
+	margin-top: 2px;
+
+}
+.logo img{
+	width: 100%;
+}
+.menu1{
+    float: right;
+	width: 50%;
+}
+.menu1 ul{
+	float: right;
+}
+.menu1 ul li {
+	float: left;
+	list-style: none;
+}
+.menu1 ul li a{
+	text-decoration: none;
+	margin: 0 15px;
+	font-size: 18px;
+	color: #0D2454;
+}
+.menu1 ul li a:hover{
+	color: #0080FF;
+}
+.menu1 ul li:last-child a{
+	margin-right: 0;
+}
+
+
+			/*header design end*/			
+				/*banner design start*/
+.banner{
+    padding: 50px 0;
+}
+.containar2{
+	width: 60%;
+	margin: 0 auto;
+}
+.banner_text{
+	text-align: center;
+}
+.banner_text h1{
+    font-size: 50px;
+    line-height: 64px;
+    color: #0D2454;
+    margin: 0 129px 15px;
+}
+.banner_text h1 span{
+	color: #0080FF;
+}
+.banner_text p{
+	color: #0D2454;
+    line-height: 23px;
+    margin: 0 25px 50px;
+    font-size: 18px;
+}
+.banner_img{
+	width: 65%;
+	margin: 0 auto;
+}
+.banner_img img{
+	width: 100%;
+}
+				/*banner design end*/
+				/*success design start*/
+.success{}
+.s_contain{
+	overflow: hidden;
+	padding: 33px;
+}
+.s_left{
+	width: 46%;
+    float: left;
+    text-align: right;
+}
+.s_left h2{
+	font-size: 40px;
+    color: #F05565;
+    margin: 0;
+}
+.s_left p{
+	font-size: 20px;
+	color: #0D2454;
+    margin: 0;
+}
+.s_right{
+	width: 51%;
+    float: right
+}
+.s_right h1{
+	color: #0080FF;
+    margin: 0;
+    font-size: 54px;
+    line-height: 49px;
+}
+				/*success design end*/
+
+				/*service design strat*/
+.service{
+	padding: 55px 0;
+}
+.s_wrapper{
+	overflow: hidden;
+}
+.s_one{
+    width: 29%;
+    float: left;
+    margin-right: 20px;
+    padding: 50px 22px;
+    background-color: #FDEBED;
+}
+.s_one:last-child{
+	margin-right: 0;
+}
+.s_img{
+
+}
+.s_img img{
+	width: 100%;
+}
+.s_text{}
+.s_text h2{
+	margin: 0;
+}				
+.s_text p{}	
+.s_two{
+	background-color: #EBF9F4;
+	padding: 30px 20px;
+}
+.s_three{
+	background-color: #FFF7E8;
+	padding: 27px 20px;
+}			
+				/*service design end*/
+				/*footer design start*/
+footer{
+	background-color: #008AFF;
+	padding: 30px 0;
+}
+.f_text{
+	text-align: center;
+}				
+.f_text p{
+	margin: 0;
+    font-size: 18px;
+    color: wheat;
+}
+.f_text a{
+	color: white;
+    font-size: 25px;
+    text-decoration: none;
+}				
+				/*footer design end*/
+
+
+
+				/*footer2 design end*/
